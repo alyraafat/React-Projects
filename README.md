@@ -7,3 +7,4 @@ These are the projects made by Modern React with Redux 2023 course.
 | Reusable Components | https://github.com/alyraafat/Reusable-components.git |
 | Playlists using redux | https://github.com/alyraafat/Playlists-using-redux.git |
 | Cars | https://github.com/alyraafat/cars.git |
+| Favourite albums | https://github.com/alyraafat/favourite-albums.git |
